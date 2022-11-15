@@ -1,1 +1,1 @@
-bash species.sh
+bash species.sh  #runs the species.sh script
