@@ -4,3 +4,6 @@
 unzip "$1" -d .;
 echo "Unzipped $1"; 
 ls $(basename "$1" .zip);
+
+unzip "data-shell.zip" -d ~/Desktop 
+ls ~/Desktop/data-shell
