@@ -1,1 +1,1 @@
-bash species.sh  #runs the species.sh script
+nano species.sh  #runs the species.sh script
